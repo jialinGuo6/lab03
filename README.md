@@ -3,3 +3,5 @@ Lab 03
 First paragraph
 ## second section
 Second paragraph
+## third section
+third paragraph
