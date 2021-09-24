@@ -1,4 +1,4 @@
-# Lab 03
+Lab 03
 ## first section
 First paragraph
 ## second section
